@@ -15,3 +15,29 @@ Tech Stack
 React: JavaScript library for building user interfaces.
 
 Tailwind CSS: A utility-first CSS framework for styling.
+
+
+
+
+\Installation
+
+To get started with the project, follow these steps:
+
+1. Clone the Repository
+
+git clone https://github.com/<your-username>/top-courses-page.git
+cd top-courses-page
+
+2. Install Dependencies
+
+Make sure you have Node.js and npm or yarn installed on your machine.
+
+npm install
+
+3. Run the Project
+
+Start the development server:
+
+npm start
+
+Open your browser and navigate to http://localhost:3000 to view the app.
