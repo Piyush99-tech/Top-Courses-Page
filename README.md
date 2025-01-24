@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 
 1. Clone the Repository
 
-git clone https://github.com/<your-username>/top-courses-page.git
+git clone https://github.com/Piyush99-tech/Top-Courses-Page.git
 cd top-courses-page
 
 2. Install Dependencies
